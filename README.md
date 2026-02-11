@@ -12,10 +12,10 @@
 - [What We Do](#-what-we-do)
 - [Our Philosophy](#-our-philosophy)
 - [Why Choose PT Xentra Technology?](#-why-choose-pt-xentra-technology)
-- [Join Our Journey](#-join-our-journey)
+<!-- - [Join Our Journey](#-join-our-journey)
 - [Connect With Us](#-connect-with-us)
 - [Our Projects](#-our-projects)
-- [License](#-license)
+- [License](#-license) -->
 
 ---
 
@@ -53,6 +53,7 @@ Our core philosophy at PT Xentra Technology is to be the central hub of technolo
 *   **Client-Centric Approach:** Your success is our ultimate metric. We prioritize understanding your unique needs to deliver solutions that exceed expectations.
 *   **End-to-End Delivery:** From initial concept and strategic planning to seamless deployment and ongoing support, we are your trusted partner every step of the way.
 
+<!-- 
 ## 🤝 Join Our Journey
 
 Are you a talented innovator looking to make a significant impact? We are always seeking passionate individuals to join our growing team. Explore career opportunities or collaborate with us on future projects!
@@ -75,7 +76,7 @@ Explore our repositories to see the innovative work we're doing. Each project re
 
 *   [Project Name 1](Link to Project 1 Repo)
 *   [Project Name 2](Link to Project 2 Repo)
-*   ...and more to come!
+*   ...and more to come! 
 
 ## ⚖️ License
 
@@ -84,3 +85,4 @@ Unless otherwise specified, content within our public repositories is typically 
 ---
 
 _Founded on February 11, 2026_
+-->
