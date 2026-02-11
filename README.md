@@ -7,15 +7,15 @@
 **"Where Technology Becomes the Core of Growth"**
 
 ## 📖 Table of Contents
-- [About Us](#about-us)
-- [Our Vision](#our-vision)
-- [What We Do](#what-we-do)
-- [Our Philosophy](#our-philosophy)
-- [Why Choose PT Xentra Technology?](#why-choose-pt-xentra-technology)
-- [Join Our Journey](#join-our-journey)
-- [Connect With Us](#connect-with-us)
-- [Our Projects](#our-projects)
-- [License](#license)
+- [About Us](#-about-us)
+- [Our Vision](#-our-vision)
+- [What We Do](#-what-we-do)
+- [Our Philosophy](#-our-philosophy)
+- [Why Choose PT Xentra Technology?](#-why-choose-pt-xentra-technology)
+- [Join Our Journey](#-join-our-journey)
+- [Connect With Us](#-connect-with-us)
+- [Our Projects](#-our-projects)
+- [License](#-license)
 
 ---
 
